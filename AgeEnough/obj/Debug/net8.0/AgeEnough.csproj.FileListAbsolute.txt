@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\Challenges\AgeEnough\bin\Debug\net8.0\AgeEnough.exe
+C:\Users\andre\Desktop\Challenges\AgeEnough\bin\Debug\net8.0\AgeEnough.deps.json
+C:\Users\andre\Desktop\Challenges\AgeEnough\bin\Debug\net8.0\AgeEnough.runtimeconfig.json
+C:\Users\andre\Desktop\Challenges\AgeEnough\bin\Debug\net8.0\AgeEnough.dll
+C:\Users\andre\Desktop\Challenges\AgeEnough\bin\Debug\net8.0\AgeEnough.pdb
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\AgeEnough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\AgeEnough.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\AgeEnough.AssemblyInfo.cs
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\AgeEnough.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\AgeEnough.dll
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\refint\AgeEnough.dll
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\AgeEnough.pdb
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\AgeEnough.genruntimeconfig.cache
+C:\Users\andre\Desktop\Challenges\AgeEnough\obj\Debug\net8.0\ref\AgeEnough.dll
