@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\bin\Debug\net8.0\FindSumAverage.exe
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\bin\Debug\net8.0\FindSumAverage.deps.json
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\bin\Debug\net8.0\FindSumAverage.runtimeconfig.json
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\bin\Debug\net8.0\FindSumAverage.dll
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\bin\Debug\net8.0\FindSumAverage.pdb
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\FindSumAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\FindSumAverage.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\FindSumAverage.AssemblyInfo.cs
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\FindSumAverage.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\FindSumAverage.sourcelink.json
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\FindSumAverage.dll
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\refint\FindSumAverage.dll
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\FindSumAverage.pdb
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\FindSumAverage.genruntimeconfig.cache
+C:\Users\andre\Desktop\Coding-Challenges-CoderByte\FindSumAverage\obj\Debug\net8.0\ref\FindSumAverage.dll
